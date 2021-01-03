@@ -1,4 +1,4 @@
-# Java 9 Flow with Processor Example - HoneyFlower Systems
+# Java 9 Flow with Processor Example
 
 ![The Reactive Magazine Publisher ](img/java-9-flow-publisher-processor-subscriber.png)
 
